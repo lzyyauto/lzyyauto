@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm lzyyauto</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An interesting backend development engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lzyyauto&label=Profile%20views&color=0e75b6&style=flat" alt="lzyyauto" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lzyyauto" alt="lzyyauto" /></a> </p>
+- 🌱 I’m currently learning **LangChain,build my RAG**
+
+- ⚡ Fun fact **otaku**
 
 <p align="left">
 <picture>
