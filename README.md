@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm lzyyauto</h1>
-<h3 align="center">An interesting backend development engineer</h3>
+<h3 align="center">An interesting codeer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lzyyauto&label=Profile%20views&color=0e75b6&style=flat" alt="lzyyauto" /> </p>
 
-- 🌱 I’m currently learning **LangChain,build my RAG**
+- 🌅 Rise early and rest well
 
-- ⚡ Fun fact **otaku**
+- 💻 Write quality code
+
+- ✨ Build something amazing
 
 <p align="left">
 <picture>
