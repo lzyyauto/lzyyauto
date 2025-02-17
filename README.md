@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lzyyauto&label=Profile%20views&color=0e75b6&style=flat" alt="lzyyauto" /> </p>
 
-- 🌅 Rise early and rest well
+- 🌙 Early to bed, early to rise  
 
-- 💻 Write quality code
+- 💻 Code with love & logic  
 
-- ✨ Build something amazing
+- ✨ Make amazing things happen
 
 <p align="left">
 <picture>
